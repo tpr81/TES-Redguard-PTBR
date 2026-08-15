@@ -1,0 +1,2 @@
+Copie os aquivos em "/TES-Redguard-PTBR/TES: Redguard PT-BR" para a pasta de instalação do Redguard, subscrevendo  os arquivos "ENGLISH.RTX" e "MENU.INI"
+@tpr81
